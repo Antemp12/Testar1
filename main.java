@@ -3,5 +3,7 @@ public class main {
         System.out.println("ola a todos");
 
         System.out.println("teste2");
+
+        System.out.printf("commit");
     }
 }
