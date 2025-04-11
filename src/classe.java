@@ -8,5 +8,7 @@ public class classe {
         System.out.printf("jdwifjdiaj");
 
         System.out.printf("ksnd");
+
+        System.out.printf("sdd");
     }
 }
